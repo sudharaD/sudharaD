@@ -3,7 +3,10 @@
 
 
 - 🔭 I’m currently studying at Institute Of Technology University Of Moratuwa as a Information Technology student.
-- 🌱 I’m currently working with React and Java(Mobile App Development)
+- 🧮 And I,m also following Bsc (Hons) Computing degree program at Wrexham Glyndwr University.
+- 🧑‍💼 Completed 08 months internship period as QA Engineer in Virtusa (Pvt) Ltd.
+- 🕮 Corrently following Automation Quality Assuarance course at University of Colombo.
+- 🌱 Also working with React and Java development.
 - ⚡ Fun fact: traveling, watching cricket and so many.
 
 
