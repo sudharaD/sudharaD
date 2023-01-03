@@ -18,8 +18,6 @@
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharaD&theme=radical" alt="sudharaD" /></p>
  
- <br />
- 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sudharaD&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack**
