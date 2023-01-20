@@ -3,11 +3,11 @@
 
 
 - 🏫 I’m currently studying at Institute Of Technology University Of Moratuwa as a Information Technology student.
-- 🎓 And I,m also following Bsc (Hons) Computing degree program at Wrexham Glyndwr University.
+- 🎓 And I,m also graduated in Bsc (Hons) Computing degree program at Wrexham Glyndwr University.
 - 🧑‍💼 Completed 08 months internship period as QA Engineer in Virtusa (Pvt) Ltd.
 - 👨‍💻 I'm currently working as a Intern-QA-Engineer in Arimac Lanka (Pvt) Ltd.
-- 🕮 Corrently following Automation Quality Assuarance course at University of Colombo.
-- 🌱 Also working with React and Java development.
+- 🕮 And I was acquired Certified Tester Foundation Level (CT-FL) Examination certificate at 2022.
+- 🌱 Also working with Python development & lerning Data science.
 - ⚡ Fun fact: Learn new things, watching movies and so many.
 
 
