@@ -6,7 +6,7 @@
 - 🎓 And I,m also graduated in Bsc (Hons) Computing degree program at Wrexham Glyndwr University.
 - 🧑‍💼 Completed 08 months internship period as QA Engineer in Virtusa (Pvt) Ltd.
 - 👨‍💻 I'm currently working as a Intern-QA-Engineer in Arimac Lanka (Pvt) Ltd.
-- 🕮 And I was acquired Certified Tester Foundation Level (CT-FL) Examination certificate at 2022.d
+- 🕮 And I was acquired Certified Tester Foundation Level (CT-FL) Examination certificate at 2022.
 - 🌱 Also working with Python development & lerning Data science.
 - ⚡ Fun fact: Learn new things, watching movies and so many.
 
