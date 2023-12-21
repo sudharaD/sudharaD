@@ -50,10 +50,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharaD&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sudharaD)
-
-![GitHub metrics](https://metrics.lecoq.io/sudharaD)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharaD)
-
-![Profile views](https://gpvc.arturio.dev/sudharaD)
