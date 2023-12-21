@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋👋👋👋
 
-![GitHub README Animation](./animation.svg)
+![GitHub README Particle Animation](./anim.html)
 
 - 🏫 I’m currently studying at Institute Of Technology University Of Moratuwa as a Information Technology student.
 - 🎓 And I,m also graduated in Bsc (Hons) Computing degree program at Wrexham Glyndwr University.
