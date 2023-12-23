@@ -47,5 +47,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudharaD)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharaD&show_icons=true)
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharaD&show_icons=true) -->
