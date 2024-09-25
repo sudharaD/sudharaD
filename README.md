@@ -1,14 +1,40 @@
-### Hi there 👋👋👋
+## 👋 Hello, I'm Sudhara Dhananjaya
 
+A **Quality Assurance Engineer** with a strong foundation in both **manual** and **automated testing**, I am passionate about ensuring high-quality software through meticulous QA processes. Currently working at **Arimac Lanka (Pvt) Ltd**, my experience spans across multiple industries such as **banking**, **telecommunications**, and **e-commerce**.
 
-- 🏫 I’m currently studying at Institute Of Technology University Of Moratuwa as a Information Technology student.
-- 🎓 And I,m also graduated in Bsc (Hons) Computing degree program at Wrexham Glyndwr University.
-- 🧑‍💼 Completed 08 months internship period as QA Engineer in Virtusa (Pvt) Ltd.
-- 👨‍💻 I'm currently working as a Intern-QA-Engineer in Arimac Lanka (Pvt) Ltd.
-- 🕮 And I was acquired Certified Tester Foundation Level (CT-FL) Examination certificate at 2022.
-- 🌱 Also working with Python development & lerning Data science.
-- ⚡ Fun fact: Learn new things, watching movies and so many.
+### 🌟 What I'm Currently Working On
+- Pursuing an **MSc in Data Science and AI** at the University of Sri Jayewardenepura.
+- Contributing to **People's Bank**, and **Sri Lankan Airlines** projects with a focus on **test design**, **performance testing**, and **mobile testing**.
+- Exploring **machine learning** and **AI testing** with a special interest in testing AI models for accuracy and performance.
 
+### 🎓 Education
+- MSc in Data Science and AI | University of Sri Jayewardenepura (2024 - Present)
+- BSc (Hons) in Computing | Wrexham Glyndwr University
+- NDT in Information Technology | Institute of Technology, University of Moratuwa
+
+### 🛠️ Skills & Tools
+- **Languages**: Python, Java, SQL, JavaScript, HTML/CSS
+- **Testing Tools**: Selenium, Cypress, JMeter, Postman, Rest-Assured
+- **Version Control**: Git, Agile, Scrum methodologies
+- **Data Science**: EDA, Model Validation, Feature Engineering
+- **Automation Testing**: Automation framework design, API testing
+
+### 💼 Professional Experience
+- **Arimac Lanka (Pvt) Ltd** | QA Engineer (2023 - Present)
+- **Virtusa (Pvt) Ltd** | QA Engineer (2022 - 2023)
+- **C P Abey Multi Service (Private) Limited** | QA Intern (2021 - 2022)
+
+### 💡 Projects
+- **Skin Infection Detection Assistant**: Deep learning system to detect skin diseases using image processing (Python/CNN).
+- **Travel Mobile Application**: Built with Flutter and Firebase, a comprehensive travel solution.
+- **Face Recognition Pipeline**: SVM and PCA-based face recognition system for image classification.
+- **Chatbot with RAG Method**: Developed a chatbot integrating advanced vector databases and GPT-3.5 Turbo.
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sudharad/)
+- [GitHub](https://github.com/sudharaD)
+
+⚡ **Fun Fact**: When I'm not working on testing or coding, I enjoy learning new things, watching movies, and discovering innovative solutions to everyday problems!
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
